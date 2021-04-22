@@ -1,0 +1,48 @@
+body {
+    font-family: 'Original Surfer', cursive;
+    background: rgba(162, 0, 255, 0.829);
+}
+
+.header_div
+{
+    background:rgba(8, 45, 146, 0.938);
+    color:rgb(16, 247, 255)
+}
+
+.header_div img
+{
+    width: 100px
+}
+
+.main_div
+{
+    background:rgb(38, 255, 0);
+    padding: 10px;
+    margin-top: 15px;
+border: 3px solid rgb(238, 255, 0);
+}
+
+.main_div label
+{
+    background: rgb(255, 187, 0);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(255, 0, 0);
+}
+
+#camera
+{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
